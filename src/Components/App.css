@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.search{
+    background-color: #4b6584;
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 10px 0px;
+}
+
+.input{
+    text-align: center;
+    width: 40%;
+    margin: 30px auto 0px auto;
+}
+
+.input input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px 8px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+.src_img{
+    width: 40%;
+    margin: 20px auto 0 auto;
+}
+
+.note{
+    text-align: center;
+    margin-top: 100px;
+    color: gray;
+}
